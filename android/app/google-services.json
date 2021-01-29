@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70242554975",
+    "project_id": "events-6661f",
+    "storage_bucket": "events-6661f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70242554975:android:ed523d0926eec2ad7237ea",
+        "android_client_info": {
+          "package_name": "com.cikup.events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70242554975-70h3d6joo198olidmivpncfkhp4cej2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cikup.events_app",
+            "certificate_hash": "bc8a8c268c9b032926a96224f5293d5c174d15c1"
+          }
+        },
+        {
+          "client_id": "70242554975-sgduhu5aj091jmmv76ad41tj9jjvp4g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhiLE8erVxSDhDg4pUNunXlPKDFY3G-Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70242554975-sgduhu5aj091jmmv76ad41tj9jjvp4g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
